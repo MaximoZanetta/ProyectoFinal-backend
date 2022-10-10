@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "timestamp": 23243434,
+    "name": "GRAND THEFT AUTO V",
+    "description": "Grand Theft Auto 5 melds storytelling and gameplay in unique ways as players repeatedly jump in and out of the lives of the games three protagonists.",
+    "url": "https://dixgamer.com/wp-content/uploads/2016/11/gta-v.jpg",
+    "price": 70,
+    "stock": 100
+  },
+  {
+    "id": 2,
+    "timestamp": 23243434,
+    "name": "GOD OF WAR",
+    "description": "His vengeance against the gods of Olympus far behind him, Kratos now lives as a man in the lands of Norse Gods and monsters.",
+    "url": "https://dixgamer.com/wp-content/uploads/2016/12/God-Of-War-3-Remastered-1.jpg",
+    "price": 70,
+    "stock": 100
+  },
+  {
+    "id": 3,
+    "timestamp": 23243434,
+    "name": "THE LAST OF US REMASTERED",
+    "description": "Joel, a violent survivor, is hired to smuggle a 14 year-old girl, Ellie, out of an oppressive military quarantine zone, but what starts as a small job soon transforms into a brutal journey.",
+    "url": "https://dixgamer.com/wp-content/uploads/2017/09/the-last-of-us-remastered.jpg",
+    "price": 70,
+    "stock": 100
+  },
+  {
+    "id": 4,
+    "timestamp": 1665010041307,
+    "name": "FIFA 23",
+    "description": "En esta edición esperan los torneos más importantes de fútbol, como la Copa Mundial de la FIFA masculina y femenina, la UEFA Champions League y la Premier League. Además de renovados modos de juego, cuenta con más de 19.000 jugadores, 700 equipos, 100 estadios y 30 ligas, con la autenticidad inigualable de FIFA.",
+    "price": "100",
+    "url": "https://dixgamer.com/wp-content/uploads/2022/08/fifa-23.jpg",
+    "stock": "10"
+  },
+  {
+    "id": 5,
+    "timestamp": 1665071399735,
+    "name": "CRASH BANDICOOT 4",
+    "description": "¡Ya era hora ⏰ de un juego completamente nuevo de #CrashBandicoot! 🤪 Crash se lanza de lleno a una aventura temporal que se cae a pedazos en Crash Bandicoot...",
+    "url": "https://dixgamer.com/wp-content/uploads/2020/09/Crash-Bandicoot-4-Its-About-Time.jpg",
+    "price": "100",
+    "stock": "10"
+  }
+]
